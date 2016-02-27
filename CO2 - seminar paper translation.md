@@ -21,15 +21,11 @@ This reaction is a very significant source of hydrogen ions and therefore greatl
 
 Contrentations levels of carbon dioxide and oxygen are the main factors for intensity of spontanious breathing. Carbon dioxide stimulates chemoreceptors in the brain stem directly and also indirectly by altering the blood pH level. Excitation of these chemoreceptors causes changes in spontaneous breathing patterns. And that supports the homeostasis. When the blood pH levels is decreased, breathing becomes stronger and carbon dioxide exits the body at a faster rate. If the blood is alkaline, the breathing tends te bo very slow or not active at all. Thus the blood pH level tends to stay around the value of 7,36. (E. Nattie 1999) During common conditions, the carbon dioxide has much higher impact on breathing patterns than blood oxygen levels.
 
-##Akutní toxicita
+##Acute toxicity
 
 Stejně jako oxid uhličtý difunduje z krve do plicních sklípků, může difundovat externí CO<sub>2</sub> do krve. Se zvyšujícím množstvím oxidu uhličitého ve vzduchu je tedy pro tělo náročnější se přebytečného CO<sub>2</sub> zbavovat a tedy udržovat krev dostatečně okysličenou a mírně zásaditou. Při vznikající acidóze tělo začíná vázat přebytečné H+ ionty na hemoglobin. Intenzita dýchání se rapidně zvyšuje. Při delší nebo akutnější acidóze začínají reagovat ledviny a začínají vylučovat hydrogenuhličitanové vodíkové ionty ven z krve. (Salt Creek Phases 2006)
 
-Dále často dochází ke zvýšení tlaku a zvýšení toku krve do mozku, aby byl mozek pořád dostatečně okysličován. To může způsobovat bolesti hlavy a poruchy vědomí. (Salt Creek Phases 2006)
-
-**Tabulka 1 - Symptomy při krátkodobé expozici** (Salt Creek Phases 2006)
-
-
+Just like the carbon dioxide can diffuse from blood to alveoli, the external CO2 can diffuse into blood. The higher concentration levels of carbon dioxide are, the harder it is for the body to get rid of the excessive CO2 and to sustain a stable blood pH level. If the blood fails to stay alkaline, overabundant H+ ions are getting bonded to hemoglobin molecules. Intensity of breathing is increasing quickly. If the acidosis stays for longer period of time kidneys start to excrete hydrogen carbonate ionts from the blood. (Salt Creek Phases 2006)
 
 ##Dlouhodobá expozice vysokým koncentracím CO<sub>2</sub>
 
