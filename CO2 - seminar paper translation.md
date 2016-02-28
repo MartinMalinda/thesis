@@ -36,9 +36,13 @@ People in western countries are exposed to slightly elevated CO2 levels on daily
 At low concentrations the main way how the CO2 affects the body is by decreasing the blood pH level. Changes in pH can have a great effect on speed rates of many biochemical processes and it can, among other things, lead to oxidative stress and inflammation. Intracellular oxidative stress has been documented for example on neutrophil granulocytes, where the pH had great influence on the production rate of IL-8 protein, which plays an important role in chemotaxis and inflammatory processes. (Coakley et al.) Especially strong inflammatory effect has been observed in the respiratory system, where exists a connection between CO2 concentration level and amounts of several types of cytokines. (Abolhassani et al.) Harmful effect of very low CO2 concentrations has been documented in vitro on E.coli, in particular it's ability to increase toxicity of H2O2 and other reactive oxygen species (HO•, O2•-). It affects the Fenton reactions as so:
 
 H2O2 + Fe2+ ⟹ HO• + HO- + Fe3+ 
+
 Hydroxyl radicals can afterwards react with CO2 metabolites: 
+
 HCO3- + HO• ⟹ CO3•- + H2O 
+
 CO32- + HO• ⟹ CO3•- + HO- 
+
 Even though this carbonate radical has lower oxidative potential than ROS it can, however, in some reactions be a more effective oxidation agent than ROS (e. g. oxidation of some amino acids derivates). These reactions have been tested in vitro, where they have been observed as fluorescent lesis of DNA. The frequency of the lesis  as well as mortality significantly increased with the increase of CO2 concentrations. The effect was much more outstanding after artifical increase of H2O2 concentration.(Ezraty et al.) 
 
 ##Vliv na kognitivní funkce
@@ -147,4 +151,3 @@ Global Smart Sensors market - Growth, Trends and Forecasts (2015 - 2020) THE POT
 A survey Assessment of the CO2 fixation capacity of Anabaena sp. ATCC 33047 outdoor cultures in vertical flat-panel reactors
 
 Effects of window size and thermal mass on building comfort using an intelligent ventilation controller
-
