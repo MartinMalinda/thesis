@@ -58,21 +58,23 @@ Compared to the previous study, there is much higher duration of exposure which 
 Study from 2002, which documented length of phone calls in a call centre, there was no observed connection between ventilation and work performance.
 (Federspiel et al.)
 
-##Koncentrace CO2 ve vnitřním prostředí
-Doporučené hodnoty a maximální limity koncentrací CO2 se liší v různých státech světa. Většina států amerického kontinentu přijala standardy od ASHRAE (American Society of Heating, Refrigerating and Air-Conditioning Engineers). ASHRAE doporučuje ve veřejných prostorovách nepřekračovat hodnotu 1000 ppm. Evropský standard EN 13779 dělí vnitřní prostředí do čtyř kategorií: IDA 1, IDA 2, IDA 3 a IDA 4. Pro každou kategorii jsou nastavené, jak je vidět v Tab. 2. 
+##Concentration levels of CO2 in an indoor environment
+
+Reccomended values and limits tend to differ in various countries of the world. Most of the states of the american continent accepted the standards from ASHRAE (American Society of Heating, Refrigerating and Air-Conditioning Engineers). ASHRAE standard states that sufficient ventilation should keep the concentration level below 1000 ppm. European standard EN 13779 disects indoor environment into four categories: IDA 1, IDA 2, IDA 3 and IDA 4. For every category there are different limits nad reccomendations as it can be seen in Figure 2.
 (Petty)
 
-**Tabulka 2 - Hodnota CO<sub>2</sub> ve veřejných prostorách podle standardu EN 13779** (EC Standard for Ventilation)
-| Kategorie | Hodnota koncentrace CO<sub>2</sub> (ppm) nad venkovní hodnotou | | 
+**Figure 2 - Reccomended liits of CO<sub>2</sub> for public space by standard EN 13779** (EC Standard for Ventilation)
+| Category | Concentration difference of CO<sub>2</sub> (ppm) from outside levels | | 
 |----------|---------------------------------------------|---------------|
-|          |**Typický rozsah (ppm)**                               | **Výchozí hodnota (ppm)** |
+|          |**Typical range (ppm)**                               | **Initial value (ppm)** |
 | IDA 1    | ≤ 400                                       | 350           |
 | IDA 2    | 400 – 600                                   | 500           |
 | IDA 3    | 600 – 1000                                    | 800          |
 | IDA 4    | \>1000                                        | 1200         | 
 
-Hodnoty koncentrací CO2 se velmi liší v různých prostředích. V nových kancelářských budovách bývají koncentrace obecně nižší, než je tomu např. ve školách a jiných veřejných budovách. Kanceláře mají častěji umělou ventilaci a nižší počet osob na plochu. Zejména ve školních učebnách je při hodinách vysoký počet osob na jednotku plochy. Hodnoty koncentrací mají v průběhu dne tendenci stoupat a naměřená maxima byla v některých školách i 3000 - 5300 ppm CO2. Studie dánských škol zaznamenala podstatně horší koncentrace ve školách postavených před rokem 1950 (medián 1700 ppm) než u nových škol postavených po roce 2000 (medián: 1000 ppm). Nižší koncentrace CO2 byly také u mechanicky ventilovaných budov (medián: 1000 ppm) oproti ručně ventilovaným budovám (medián” 1600 ppm). (Toftum et al.)
-V dánských školách bylo zaznamenány přes zimu podstatně vyšší koncentrace v budovách, kde se větralo ručně. Ve sledovaných školách v Aténách byly zaznamenány podstatně nižší koncentrace u mechanicky větraných škol (1410), než u škol ručně větraných (910 ppm).
+Levels of concentrations of CO2 vastly differ in various types of indoor environments. They tend to be lower in new buildings, especially in public buildings and office spaces. Office spaces also more frequently tend to have air conditioning and a smaller amount of people per unit square then schools or libraries. Especially in smaller classrooms the concentrations tend to rise dramatically through the day in winter months. Many studies report as high concentrations as 5000 ppm. 
+Study evaluating indoor environment in Danish school observed much high concentrations in schools built before 1950 (median: 1700 ppm) than at new schools build after 2000 (median: 1000 ppm). Statistically lower concentrations were also at mechanically ventilated buildings (medina: 1000 ppm) than at manually ventilated schools (1600 ppm). Same trend was observed in similar study in Athens, where mechanically ventilated schools had a median of 910 ppm, while manually ventilated schools were at 1410 ppm. 
+
 Studií o koncentracích CO2 ve velkých přednáškových místností je podstatně méně. U sledovaných 6 přednáškových sálů v Egyptě, kde se počet studentů pohyboval od 26 až do 120 se koncentrace držela pod 1000 ppm (Abdallah). V kino sále s 230 přítomnými lidmi v Polsku při sledování 159-ti minutového filmu stoupala koncentrace z 920 ppm na 1219 ppm (Demaniuk et al). Na univerzitě v Melbourne byla měřena koncentrace v posluchárně za přítomnosti 100 studentů po dobu 1 hodiny a 50 minut. Do posluchárny byly umístěny tři senzory: jeden dole, druhý uprostřed a třetí nahoru, vzadu v místnosti. Nejvyšší koncentrace byly zaznamenány nahoře vzadu a to 900 ppm. Po určité době se však v celé místnosti koncentrace stabilizovaly na hodnotách 600 ppm až 800 ppm. V novější posluchárně za přítomnosti 30 studentů se koncentrace pohybovala mezi 400 - 800 ppm. A nejvyšší koncentrace byly opět nahoře vzadu. (Halgamuge et al.)
 
 **Tabulka 3 - Porovnání koncentrací ve školách v různých zemích**
@@ -87,8 +89,6 @@ Studií o koncentracích CO2 ve velkých přednáškových místností je podsta
 | Srbsko             | Základní školy | 15              | 5          | 1264 (průměr)                 | 3614                      | 2,452 l/p/s (průměr) | Indoor CO<sub>2</sub> measurements in Serbian schools and ventilation rate calculation                                                            | 2012 - Prosinec        |
 | Portugalsko        | Základní školy | 2               | 1          | 797 (průměr)                  |                           | 2,4 l/p/s (průměr)   | Winter Ventilation Rates at Primary Schools: Comparison Between Portugal and Finland                                                   | 2011 - Prosinec        |
 | Finsko             | Základní školy | 6               | 2          | 651 (průměr)                  |                           | 13 l/p/s             | Winter Ventilation Rates at Primary Schools: Comparison Between Portugal and Finland                                                   | 2011 - Prosinec        |
-
-Studie dánských škol zaznamenala podstatně horší koncentrace ve školách postavených před rokem 1950 (medián 1700 ppm) než u nových škol postavených po roce 2000 (medián: 1000 ppm). Nižší koncentrace CO<sub>2</sub> byly také u mechanicky ventilovaných budov (medián: 1000 ppm) oproti ručně ventilovaným budovám (medián" 1600 ppm). (Jørn Toftum et al.)
 
 Studií a koncentracích CO<sub>2</sub> ve velkých přednáškových místností je podstatně méně. U sledovaných 6 přednáškových sálů v Egyptě, kde se počet studentů pohyboval od 26 až do 120 se koncentrace držela pod 1000 ppm (A. S. H. Abdallah). V kino sále s 230 přítomnými lidmi v Polsku při sledování 159-ti minutového filmu stoupala koncentrace z 920 ppm na 1219 ppm (Demaniuk et al). Na univerzitě v Melbourne byla měřena koncentrace v posluchárně za přítomnosti 100 studentů po dobu 1 hodiny a 50 minut. Do posluchárny byly umístěny tři senzory: jeden dole, druhý uprostřed a třetí nahoru, vzadu v místnosti. Nejvyšší koncentrace byly zaznamenány nahoře vzadu a to 900 ppm. Po určité době se však v celé místnosti koncentrace stabilizovaly na hodnotách 600 ppm až 800 ppm. V novější posluchárně za přítomnosti 30 studentů se koncentrace pohybovala mezi 400 - 800 ppm. A nejvyšší koncentrace byly opět nahoře vzadu.  (M. N. Halgamuge et al)
 
