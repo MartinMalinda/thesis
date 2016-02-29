@@ -137,4 +137,48 @@ There is much less studies on the air quality in large lecture halls and other l
 
 ##Summary
 
+##References
+Avissar, Yael. Biology. N.p.: n.p., 2013. Openstax College.https://openstaxcollege.org/textbooks/biology/resources.
+
+Cronyn, Patrick D., M.D., Sharmi Watkins, M.D., M.P.H., and David J. Alexander, M.D. “Chronic Exposure to Moderately Elevated CO2 during Long-Duration Space Flight.” NASA Center for AeroSpace Information
+Abolhassani, M., A. Guais, P. Chaumet-Riffaud, A. J. Sasco, and L. Schwartz. “Carbon Dioxide Inhalation Causes Pulmonary Inflammation.” AJP: Lung Cellular and Molecular Physiology 296.4 (2009)
+
+Nattie, E. “CO2, Brainstem Chemoreceptors and Breathing.” Progress in Neurobiology 59.4 (1999): 299-331
+“Appendix 7C: Data on Atmospheric Concentration of Carbon Dioxide.” Adaptive Prediction and Predictive Control (n.d.): 461. Web. http://www.blm.gov/wy/st/en/info/NEPA/documents/cfo/howell.html.
+
+Coakley R. J., Taggart C., Greene C., McElvaney N. G., O’Neill S. J.. Ambient pCO2 
+modulates intracellular pH, intracellular oxidant generation, and interleukin-8 
+secretion in human neutrophils. J Leukoc Biol. 2002;71(4):603–10.
+
+Ezraty, Benjamin, Maïalène Chabalier, Adrien Ducret, Etienne Maisonneuve, and Sam Dukan. “CO2 Exacerbates Oxygen Toxicity.” EMBO Rep EMBO Reports 12.4 (2011): 321-26. Web. 
+
+Satish, Usha, Mark J. Mendell, Krishnamurthy Shekhar, Toshifumi Hotchi, Douglas Sullivan, Siegfried Streufert, and William (Bill) J. Fisk. “Is CO2 an Indoor Pollutant? Direct Effects of Low-to-Moderate CO2 Concentrations on Human Decision-Making Performance.” EHP Environmental Health Perspectives (2012)
+
+Allen, Joseph G., Piers Macnaughton, Usha Satish, Suresh Santanam, Jose Vallarino, and John D. Spengler. “Associations of Cognitive Function Scores with Carbon Dioxide, Ventilation, and Volatile Organic Compound Exposures in Office Workers: A Controlled Exposure Study of Green and Conventional Office Environments.” EHP Environmental Health Perspectives (2015)
+
+ASHRAE Technical FAQ: Web. https://www.ashrae.org/File%20Library/docLib/Technology/FAQs2014/TC-04-03-FAQ-35.pdf.
+
+“Ventilation for Non-residential Buildings - Performance Requirements for Ventilation and Room-conditioning Systems.” European Standard: Web.
+http://www.freedom2choose.info/docs/EC_Standard_For_Ventilation.pdf.
+
+Petty, Stephen. “SUMMARY OF ASHRAE’S POSITION ON CARBON DIOXIDE (CO 2 ) LEVELS IN SPACES.” Web. http://www.eesinc.cc/downloads/CO2positionpaper.pdf.
+
+Federspiel, C.c., G. Liu, M. Lahiff, D. Faulkner, D.l. Dibartolomeo, W.j. Fisk, P.n. Price, and D.p. Sullivan. “Worker Performance and Ventilation: Analyses of Individual Data for Call-center Workers.” (2002)
+
+Ferreira AMC, Cardoso SM. Exploratory study of air quality in elementary schools, Coimbra, Portugal. Revista de Saúde Pública. 2013;47(6):1059-1068.
+
+Toftum, Jørn, Birthe U. Kjeldsen, Pawel Wargocki, Henriette R. Menå, Eva M.n. Hansen, and Geo Clausen. “Association between Classroom Ventilation Mode and Learning Outcome in Danish Schools.” Building and Environment 92 (2015): 494-503. Web.
+
+Yang, Jinho, Insick Nam, Hyunjun Yun, Jinman Kim, Hyeon-Ju Oh, Dohee Lee, Si-Moon Jeon, Seung-Ho Yoo, and Jong-Ryeul Sohn. “Characteristics of Indoor Air Quality at Urban Elementary Schools in Seoul, Korea: Assessment of Effect of Surrounding Environments.” Atmospheric Pollution Research 6.6 (2015): 1113-122. Web.
+
+Abdallah, Amr Sayed Hassan. “Analysis of Thermal Comfort and Energy Consumption in Long Time Large Educational Halls (Studios), Assiut University, Egypt.” Procedia Engineering 121 (2015): 1674-681
+
+A. Demianiuk, K. Gładyszewska-Fiedoruk, A. Gajewski, A. Ołów, The changes of 
+carbon dioxide concentration in a cinema auditorium, *Civil And Environmental 
+Engineering 2* (2010) 11–16.
+
+Halgamuge, Malka N., T. K. Chan, and Priyan Mendis. “Ventilation Efficiency and Carbon Dioxide (CO2) Concentration.” PIERS Online 5.7 (2009): 637-40
+
+Robertson, D. S. "The Rise in the Atmospheric Concentration of Carbon Dioxide and the Effects on Human Health." Medical Hypotheses 56.4 (2001): 513-18.
+
 
