@@ -42,6 +42,17 @@ condition.
 
 - Exposure to bright light on the rising phase of the cortisol rhythm significantly decreased cortisol levels when compared to exposure to dim light the day prior
 
+(Duffy et al)
+
+-  Responses to monochromatic light of 460nm and 555nm of equal photon density were compared, and we observed that both phase-shifting and melatonin suppression were significantly greater in the subjects exposed to 460nm light than to those who received 555nm light. We also found that during the 6.5-hour light exposure, subjects exposed to the 460nm light rated themselves as significantly more alert, showed faster reaction times and fewer lapses of attention, and showed less EEG delta power and more EEG high alpha power than subjects exposed to 555nm light, consistent with a greater alerting effect of the short wavelength light
+
+- In the 1-pulse study in young adults, we also examined the relationship between illuminance and measures of alertness, and found that brighter light had greater effects on subjective and objective measures of alertness
+
+- We also found that when humans are exposed to a light stimulus in the late biological day/early biological night, that stimulus produces a phase delay shift (a shift to a later hour), and light stimuli presented in the late biological night/early biological day produce phase advance shifts (shifts to an earlier hour).
+
+
+
+
 
 
 
@@ -52,6 +63,8 @@ Karin C.H.J. Smolders, Yvonne A.W. de Kort, Bright light and mental fatigue: Eff
 (http://www.sciencedirect.com/science/article/pii/S0272494413001060)
 
 Jung CM, Khalsa SBS, Scheer FAJL, Cajochen C, Lockley SW, Czeisler CA, et al. Acute effects of bright light exposure on cortisol levels. J Biol Rhythms. 2010. June 1;25(3):208–216
+
+Duffy J. F., Czeisler C. A. Effect of light on human circadian physiology. Sleep Medicine Clinics. 2009;4(2):165–177. doi: 10.1016/j.jsmc.2009.01.004.
 
 
 
