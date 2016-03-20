@@ -50,7 +50,9 @@ condition.
 
 - We also found that when humans are exposed to a light stimulus in the late biological day/early biological night, that stimulus produces a phase delay shift (a shift to a later hour), and light stimuli presented in the late biological night/early biological day produce phase advance shifts (shifts to an earlier hour).
 
+(Cajochen)
 
+- Light exerted an acute alerting response as assessed by a reduction in the incidence of slow-eye movements, a reduction of EEG activity in the theta-alpha frequencies (EEG power density within the 5–9 Hz range) as well as a reduction in self-reported sleepiness. In accordance with the dose response function for human circadian resetting and melatonin suppression,
 
 
 
@@ -65,6 +67,9 @@ Karin C.H.J. Smolders, Yvonne A.W. de Kort, Bright light and mental fatigue: Eff
 Jung CM, Khalsa SBS, Scheer FAJL, Cajochen C, Lockley SW, Czeisler CA, et al. Acute effects of bright light exposure on cortisol levels. J Biol Rhythms. 2010. June 1;25(3):208–216
 
 Duffy J. F., Czeisler C. A. Effect of light on human circadian physiology. Sleep Medicine Clinics. 2009;4(2):165–177. doi: 10.1016/j.jsmc.2009.01.004.
+
+Christian Cajochen, Alerting effects of light, Sleep Medicine Reviews, Volume 11, Issue 6, December 2007, Pages 453-464, ISSN 1087-0792, http://dx.doi.org/10.1016/j.smrv.2007.07.009.
+(http://www.sciencedirect.com/science/article/pii/S1087079207001001)
 
 
 
