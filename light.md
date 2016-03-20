@@ -52,12 +52,11 @@ condition.
 
 (Cajochen)
 
-- Light exerted an acute alerting response as assessed by a reduction in the incidence of slow-eye movements, a reduction of EEG activity in the theta-alpha frequencies (EEG power density within the 5–9 Hz range) as well as a reduction in self-reported sleepiness. In accordance with the dose response function for human circadian resetting and melatonin suppression,
+- Light exerted an acute alerting response as assessed by a reduction in the incidence of slow-eye movements, a reduction of EEG activity in the theta-alpha frequencies (EEG power density within the 5–9 Hz range) as well as a reduction in self-reported sleepiness. In accordance with the dose response function for human circadian resetting and melatonin suppression
 
+(Vandewalle et al)
 
-
-
-
+ - A short exposure to bright light can transiently prevent the sleepiness developed in continuous darkness. At the macroscopic systems level, the alerting effect of light is reflected by an enhanced thalamic activity, which in turn might modulate cortical responses to a cognitive challenge, independently from any visual information. The enhanced brain responses outlast the exposure but quickly dissipate following regionally specific time courses.
 
 ## References
 
@@ -70,6 +69,10 @@ Duffy J. F., Czeisler C. A. Effect of light on human circadian physiology. Sleep
 
 Christian Cajochen, Alerting effects of light, Sleep Medicine Reviews, Volume 11, Issue 6, December 2007, Pages 453-464, ISSN 1087-0792, http://dx.doi.org/10.1016/j.smrv.2007.07.009.
 (http://www.sciencedirect.com/science/article/pii/S1087079207001001)
+
+Gilles Vandewalle, Evelyne Balteau, Christophe Phillips, Christian Degueldre, Vincent Moreau, Virginie Sterpenich, Geneviève Albouy, Annabelle Darsaud, Martin Desseilles, Thien Thanh Dang-Vu, Philippe Peigneux, André Luxen, Derk-Jan Dijk, Pierre Maquet, Daytime Light Exposure Dynamically Enhances Brain Responses, Current Biology, Volume 16, Issue 16, 22 August 2006, Pages 1616-1621, ISSN 0960-9822, http://dx.doi.org/10.1016/j.cub.2006.06.031.
+(http://www.sciencedirect.com/science/article/pii/S0960982206017581)
+
 
 
 
