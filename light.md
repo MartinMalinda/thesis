@@ -57,6 +57,11 @@ condition.
 (Vandewalle et al)
 
  - A short exposure to bright light can transiently prevent the sleepiness developed in continuous darkness. At the macroscopic systems level, the alerting effect of light is reflected by an enhanced thalamic activity, which in turn might modulate cortical responses to a cognitive challenge, independently from any visual information. The enhanced brain responses outlast the exposure but quickly dissipate following regionally specific time courses.
+ 
+ (Feraro)
+ (Influence of light on serotonin level)
+ 
+- The sine waves of the 5-HT rhythm in these conditions were similar in amplitude and phase with relation to lights on (i.e. high 5-HT content during the day and low content at night, with a sharp rise occurring just after lights on). This variation, however, was not apparent in animals exposed to DD or LL; 5-HT content did not display a significant diurnal oscillation. Since 5-HT failed to oscillate in the absence of environmental time cues, the rhythm is likely driven by the environment and not an internal circadian clock.
 
 ## References
 
@@ -73,9 +78,6 @@ Christian Cajochen, Alerting effects of light, Sleep Medicine Reviews, Volume 11
 Gilles Vandewalle, Evelyne Balteau, Christophe Phillips, Christian Degueldre, Vincent Moreau, Virginie Sterpenich, Geneviève Albouy, Annabelle Darsaud, Martin Desseilles, Thien Thanh Dang-Vu, Philippe Peigneux, André Luxen, Derk-Jan Dijk, Pierre Maquet, Daytime Light Exposure Dynamically Enhances Brain Responses, Current Biology, Volume 16, Issue 16, 22 August 2006, Pages 1616-1621, ISSN 0960-9822, http://dx.doi.org/10.1016/j.cub.2006.06.031.
 (http://www.sciencedirect.com/science/article/pii/S0960982206017581)
 
-
-
-
-
-
+J.S. Ferraro, R.W. Steger, Diurnal variations in brain serotonin are driven by the photic cycle and are not circadian in nature, Brain Research, Volume 512, Issue 1, 26 March 1990, Pages 121-124, ISSN 0006-8993, http://dx.doi.org/10.1016/0006-8993(90)91179-K.
+(http://www.sciencedirect.com/science/article/pii/000689939091179K)
 
