@@ -35,13 +35,6 @@ Another important factor is frequence of light. Higher frequencies are likely to
 
 In a 2014 study, 28 students were being observed under two lightning conditions: 200 lx and 1000 lx. They performed go no go tasks when they were relaxed and also after induction of mental fatigue. After the fatigue induction, the results were significantly better at 1000 lx and subjects also reported better mood. At a relaxed state, subjects preferred dim light (200 lx). (Smolders et al)
 
-// Rewrite
-One study analyzed the test scores of more than 21,000 students in three school districts in California, Washington, and Colorado, using multivariate linear regression to control for other influences on  performance. These are profound results, which have been carried out under rigorous statistical controls. In one school district, students with the daylighting in their classrooms progressed 20% faster on math tests and 26% faster on reading tests when compared to students in the least daylit classrooms. The other two school districts, "students in classrooms with the most daylighting were found to have 7%-18 higher scores than those in the least." 
-
-Another study compared test scores for students in three daylit schools in North Carolina to scores in the county school system as a whole and other new schools within the county. Test scores for over 1,200 students in daylit schools were compared to scores for the students in the county. The study showed that students who attended daylit outperformed the students in non-daylit schools by 5%-14%.
-
-(Patricia Plympton)
-
 ###Light levels throughout the day
 ###Light levels throughout the year
 
