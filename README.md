@@ -31,6 +31,8 @@ Most significant effect of light on the human body is probably is probably it's 
 
 Light's ability to increase alertness has been confirmed in various studies both subjectively and objectively. There has been reports of increased thalamic activity (Vandewalle et al, Duffy et al), reduction of EEG activity (Duffy et al) and supression of melatonin (Duffy et al). Light can also lower cortisol levels, but mostly in the beginning of the biological day. (Jung et al) That is relevant, because cortisol can impair retrieval of long-term spatial memory (de Quervain et al). That could have adverse effect on learning which depends on recalling previous knowledge.
 
+Another important factor is frequence of light. Higher frequencies are likely to have higher melatonin supression effect - In a 2009 study subjects after 6.5 hours of exposure report higher levels of alertness, better reaction times and and fewer lapses of attention. (Duffy et al)
+
 In a 2014 study, 28 students were being observed under two lightning conditions: 200 lx and 1000 lx. They performed go no go tasks when they were relaxed and also after induction of mental fatigue. After the fatigue induction, the results were significantly better at 1000 lx and subjects also reported better mood. At a relaxed state, subjects preferred dim light (200 lx). (Smolders et al)
 
 ###Light levels throughout the day
