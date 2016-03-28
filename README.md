@@ -27,7 +27,7 @@ Illumination is an important factor that may influence performance, alertness an
 
 ###Effects of illumination on human body
 
-Most significant effect of light on the human body is probably is probably it's influence on circadian rhythm. Light is main driver for circadian rhythm and it can offset or shift the start of the circadian phase.
+Most significant effect of light on the human body is probably it's influence on circadian rhythm. Light is a main driver for circadian rhythm and it can offset or shift the start of the circadian phase.
 
 Light's ability to increase alertness has been confirmed in various studies both subjectively and objectively. There has been reports of increased thalamic activity (Vandewalle et al, Duffy et al), reduction of EEG activity (Duffy et al) and supression of melatonin (Duffy et al). Light can also lower cortisol levels, but mostly in the beginning of the biological day. (Jung et al) That is relevant, because cortisol can impair retrieval of long-term spatial memory (de Quervain et al). That could have adverse effect on learning which depends on recalling previous knowledge.
 
@@ -40,6 +40,19 @@ In a 2014 study, 28 students were being observed under two lightning conditions:
 
 ##Temperature
 ###Thermal comfort
+Connection between mental performance and thermal comfort has been studied consistently in previous decades. A lot of studies focus on workers in industrial workplaces and observe workers deep body temperatures, environment temperature and it's effect on frequency of mistakes, productivity and other factors of performance. These studies generally discuss the effects of temperatures over 30C and the physiology of heat stress which is often not relevant to the school environment, but some results could apply. They find that simple tasks are less vulnerable to heat stress than complex tasks (Hancock [ROK]) and also that females can better withstand the negative effect of heat stress than males at tasks based on short-term memory (Hancock? [ROK]).
+
+Heat stress occurs when body temperature is elevated due if body cannot sufficiently cool itself. This in workplace environment happens generally at temperatures 29.4C or higher (Hancock). We haven't recorded such high temperatures in our measurements, but they can be common in other countries. For example, during April and May in 2014 in large educational halls in Egypt, the temperatures ranged between 30C and 37C. Majority of students reported discomfort caused by high temperature, inadequate ventilation and sunlight. (Abdallah)
+
+Later studies start to examine the effect of only mildly elevated temperatures on performance, which is relevant to school and office environments. In studies from 2003, Sepannen et al find a performance decreasing effect of 2% per a degree of temperature in the range of 25 - 32C (Sepannen et al., 2003). Later on, the performance decreasing effect has been observed to start at 23C and higher. (Sepannen et al. [ROK]). A lot of subsequent studies confirm the 24C to be critical point.([Sources]).
+
+Most of the studies observe the short term effect of temperature on performance and they do not observe how temperature affect mood and energy levels of subjects throghout the whole day. 
+
+--- find studies for heat exhaustion in indoor environments.
+
+
+
+
 ###Temperature throughout the day
 ###Temperature throughout the year
 
@@ -201,3 +214,7 @@ Christian Cajochen, Alerting effects of light, Sleep Medicine Reviews, Volume 11
 Gilles Vandewalle, Evelyne Balteau, Christophe Phillips, Christian Degueldre, Vincent Moreau, Virginie Sterpenich, Geneviève Albouy, Annabelle Darsaud, Martin Desseilles, Thien Thanh Dang-Vu, Philippe Peigneux, André Luxen, Derk-Jan Dijk, Pierre Maquet, Daytime Light Exposure Dynamically Enhances Brain Responses, Current Biology, Volume 16, Issue 16, 22 August 2006, Pages 1616-1621, ISSN 0960-9822, http://dx.doi.org/10.1016/j.cub.2006.06.031. (http://www.sciencedirect.com/science/article/pii/S0960982206017581)
 
 J.S. Ferraro, R.W. Steger, Diurnal variations in brain serotonin are driven by the photic cycle and are not circadian in nature, Brain Research, Volume 512, Issue 1, 26 March 1990, Pages 121-124, ISSN 0006-8993, http://dx.doi.org/10.1016/0006-8993(90)91179-K. (http://www.sciencedirect.com/science/article/pii/000689939091179K)
+
+Seppänen, Olli, William J. Fisk, and Quanhong Lei-Gomez. _Effect of temperature on task performance in office environment In 5th International Conference on Cold Climate Heating, Ventilating and Air Conditioning_, Edited by Quanhong Lei. Moscow, Russia, 2006.
+
+Hancock P. A., Vasmatzidis I. (2003). Effects of heat stress on cognitive performance: the current state of knowledge. Int. J. Hyperthermia 19, 355–372. 10.1080/0265673021000054630 [PubMed] [Cross Ref]
