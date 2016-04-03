@@ -160,17 +160,15 @@ There is much less studies on the air quality in large lecture halls and other l
 
 ###Concentration of CO2 throughout the year
 
-The results clearly indicate, that CO2 levels tend to be higher in the winter. Median for 38 measured lectures in winter semester (September - December) is 1169 ppm, while for measured lectures in summer semester (15 measurements during April and May), the median is 711 ppm. Median for all 53 lectures is 1060 ppm.
+The results clearly indicate, that CO2 levels tend to be higher in the winter. Median for 38 measured lectures in winter semester (September - December) is 1258 ppm, while for measured lectures in summer semester (15 measurements during April and May), the median is 872 ppm. Median for all 53 lectures is 1060 ppm.
 
-We also could measure higher CO2 levels in winter despite the fact, that occupancy in classrooms and lecture halls was generally lower than in summer. Median for the amount of people present in lectures was 11 for winter and 21 for summer, totalling 18.
-
-To make this more clear, we introduce a variable that takes into account both occupancy and CO2 levels. The occupancy/CO2 factor:
+To illustrate, that the change is not caused just by the change of occupancy, we introduce a variable that takes into account both occupancy and CO2 levels. The occupancy/CO2 factor is defined like this:
 
 F = (CO2(Measured) - CO2(Ambient))/N(Amount of people present)
 
 This factor has been computed for every lecture. Ambient level for CO2 has been set as 400[TBD], which is an approx. average measured value on Mauna Loa observatory for year 2015. This value works as a baseline, even though the actual ambient levels tend to be higher in cities.
 
-The factor was 21.5 ppm for summer semester and 70 ppm for winter semester and it can be read as such: in average one occupant caused increase of 70 ppm in CO2 levels. This clearly indicates that ventilation rates tend to be lower in cold months. This to some level correlate with indoor and outdoor temperature. Because in most measured places all ventilation was done manually, it was determined by occupants behavior and occupants tend to ventilate less if the indoor or even outdoor temperature is low.
+The factor was 36 ppm for summer semester and 42 ppm for winter semester and it can be read as such: in average one occupant caused increase of 42 ppm in CO2 levels. This difference still isn't that great, but if we split the datasets into small classrooms and large lecture halls, the results are more clear. For smaller classroooms, average factor is 43 ppm for summer semester and 51 ppm for winter semester. This clearly indicates that ventilation rates tend to be lower in cold months. This to some level correlate with indoor and outdoor temperature. Because in most measured places all ventilation was done manually, it was determined by occupants behavior and occupants tend to ventilate less if the indoor or even outdoor temperature is low.
 
 [F/Date-deff graph]
 
