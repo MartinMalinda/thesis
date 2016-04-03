@@ -117,7 +117,7 @@ The results strongly suggest, that the concentration levels of CO2 have great im
 
 Another study from 2015 was constructed a bit differently. It observed 24 employees over the period of one week in a controlled setting of office space. For two days, the air conditioning was set on 40 cfm per person and the CO2 level was stabilized on 550 ppm (Green+ mode). For next two days, air conditioning was set to 20 cfm/p and CO2 concentrations level was stabilized on 945 ppm (Green mode). For the remaining three days, CO2 was stabilized on 1400 ppm. The observed subjects completed the SMS test (Strategic Management Simulation) every day and the results were put in comparison. In average, the resuls were 61% better in the Green mode day and 101% better in the Green+ mode day. In some parts of the test there were as much as 288% better results on Green+ mode day. 
 (Allen et al.)
-Compared to the previous study, there is much higher duration of exposure which is closer to the real life situation, when subjects spend whole day in a certain indoor environment. On the other hand, there are again quite a few factors that could have had great impact. Even though it was probably carbon dioxide that had the largest impact on cognitive performance, because the concentration level was regulated by air exchange, that mean that not only CO2 concentrations levels were different on different modes, but also VOC, NOx, Ozone and other pollutants. And also it could be possible to argue, that there is a natural trend of performance increase in a workweek from Monday to Friday as the fatigue increases.
+Compared to the previous study, there is much higher duration of exposure which is closer to the real life situation, when subjects spend whole day in a certain indoor environment. On the other hand, there are again quite a few factors that could have had great impact. Even though it was probably carbon dioxide that had the largest impact on cognitive performance, because the concentration level was regulated by air exchange, that means that not only CO2 concentrations levels were different on different modes, but also VOC, NOx, Ozone and other pollutants. And also it could be possible to argue, that there is a natural trend of performance decrease in a workweek from Monday to Friday as the fatigue increases.
 
 Study from 2002, which documented length of phone calls in a call centre, there was no observed connection between ventilation and work performance.
 (Federspiel et al.)
@@ -155,7 +155,28 @@ There is much less studies on the air quality in large lecture halls and other l
 | Finland             | Elementery schools | 6               | 2          | 651 (ar. average)                  |                           | 13 l/p/s             | Winter Ventilation Rates at Primary Schools: Comparison Between Portugal and Finland                                                   | 2011 - December        |
 
 ###Concentration of CO2 throughout the day
+
+
+
 ###Concentration of CO2 throughout the year
+
+The results clearly indicate, that CO2 levels tend to be higher in the winter. Median for 38 measured lectures in winter semester (September - December) is 1169 ppm, while for measured lectures in summer semester (15 measurements during April and May), the median is 711 ppm. Median for all 53 lectures is 1060 ppm.
+
+We also could measure higher CO2 levels in winter despite the fact, that occupancy in classrooms and lecture halls was generally lower than in summer. Median for the amount of people present in lectures was 11 for winter and 21 for summer, totalling 18.
+
+To make this more clear, we introduce a variable that takes into account both occupancy and CO2 levels. The occupancy/CO2 factor:
+
+F = (CO2(Measured) - CO2(Ambient))/N(Amount of people present)
+
+This factor has been computed for every lecture. Ambient level for CO2 has been set as 400[TBD], which is an approx. average measured value on Mauna Loa observatory for year 2015. This value works as a baseline, even though the actual ambient levels tend to be higher in cities.
+
+The factor was 21.5 ppm for summer semester and 70 ppm for winter semester and it can be read as such: in average one occupant caused increase of 70 ppm in CO2 levels. This clearly indicates that ventilation rates tend to be lower in cold months. This to some level correlate with indoor and outdoor temperature. Because in most measured places all ventilation was done manually, it was determined by occupants behavior and occupants tend to ventilate less if the indoor or even outdoor temperature is low.
+
+[F/Date-deff graph]
+
+
+
+
 
 ##Summary
 
