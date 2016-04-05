@@ -158,12 +158,13 @@ There is much less studies on the air quality in large lecture halls and other l
 
 <table>
 <tr>
-<th colspan=3>
+<th colspan=5>
 Winter Semester 2015
 </th>
 </tr>
 <tr>
-<td>Place</td><td>Average CO2 level (median) [ppm]</td><td>Average occupancy (median)</td><td>Lecture time</td><td>Measured lectures</td></tr>
+<td>Place</td><td>Average CO2 level (median) [ppm]</td><td>Average occupancy (median)</td><td>Lecture time</td><td>Measured lectures</td>
+</tr>
 <tr>
 <td>Kostirova poslucharna<td><td>1411</td><td>37.5</td><td>Tuesday 16:30 - 18:00</td><td>7</td>
 </tr>
@@ -180,7 +181,7 @@ Winter Semester 2015
 <td>Braunerova poslucharna</td><td>1101</td><td>30</td><td>Wednesday 14:00 - 14:30</td><td>5</td>
 </tr>
 <tr>
-<th colspan=3>
+<th colspan=5>
 Summer semester 2015
 </th>
 </tr>
