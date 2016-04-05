@@ -166,13 +166,13 @@ Winter Semester 2015
 <td>Place</td><td>Average CO2 level (median) [ppm]</td><td>Average occupancy (median)</td><td>Lecture time</td><td>Measured lectures</td>
 </tr>
 <tr>
-<td>Kostirova poslucharna<td><td>1411</td><td>37.5</td><td>Tuesday 16:30 - 18:00</td><td>7</td>
+<td>Kostirova poslucharna</td><td>1411</td><td>37.5</td><td>Tuesday 16:30 - 18:00</td><td>7</td>
 </tr>
 <tr>
 <td>Seminarium BB</td><td>1304</td><td>15</td><td>Thursday 14:00 - 15:30</td><td>9</td>
 </tr>
 <tr>
-<td>Krajinova poslucharna</td><td>910</td><td></td>11<td>Wednesday 9:00 - 10:30</td><td>9</td>
+<td>Krajinova poslucharna</td><td>910</td><td>11<td>Wednesday 9:00 - 10:30</td><td>9</td>
 </tr>
 <tr>
 <td>Krajinova poslucharna</td><td>1412</td><td>23</td><td>Thursday 11:00 - 12:30</td><td>9</td>
@@ -186,16 +186,16 @@ Summer semester 2015
 </th>
 </tr>
 <tr>
-<td>Zoologicka poslucharna<td><td>1035</td><td>18</td><td>Friday 12:30 - 14:00</td><td>4</td>
+<td>Zoologicka poslucharna</td><td>1035</td><td>18</td><td>Friday 12:30 - 14:00</td><td>4</td>
 </tr>
 <tr>
-<td>Braunerova poslucharna<td><td>622</td><td>22</td><td>Wednesday 8:10 - 9:30</td><td>4</td>
+<td>Braunerova poslucharna</td><td>622</td><td>22</td><td>Wednesday 8:10 - 9:30</td><td>4</td>
 </tr>
 <tr>
-<td>Praktikum OZP<td><td>987</td><td>17</td><td>Wednesday 13:10 - 14:30</td><td>4</td>
+<td>Praktikum OZP</td><td>987</td><td>17</td><td>Wednesday 13:10 - 14:30</td><td>4</td>
 </tr>
 <tr>
-<td>Poslucharna OZP<td><td>952</td><td>14</td><td>Tuesday 11:30 - 13:00</td><td>4</td>
+<td>Poslucharna OZP</td><td>952</td><td>14</td><td>Tuesday 11:30 - 13:00</td><td>4</td>
 </tr>
 </table>
 
