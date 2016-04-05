@@ -156,6 +156,47 @@ There is much less studies on the air quality in large lecture halls and other l
 
 ###Concentration of CO2 throughout the day
 
+<table>
+<tr>
+<th colspan=3>
+Winter Semester 2015
+</th>
+</tr>
+<tr>
+<td>Place</td><td>Average CO2 level (median) [ppm]</td><td>Average occupancy (median)</td><td>Lecture time</td><td>Measured lectures</td></tr>
+<tr>
+<td>Kostirova poslucharna<td><td>1411</td><td>37.5</td><td>Tuesday 16:30 - 18:00</td><td>7</td>
+</tr>
+<tr>
+<td>Seminarium BB</td><td>1304</td><td>15</td><td>Thursday 14:00 - 15:30</td><td>9</td>
+</tr>
+<tr>
+<td>Krajinova poslucharna</td><td>910</td><td></td>11<td>Wednesday 9:00 - 10:30</td><td>9</td>
+</tr>
+<tr>
+<td>Krajinova poslucharna</td><td>1412</td><td>23</td><td>Thursday 11:00 - 12:30</td><td>9</td>
+</tr>
+<tr>
+<td>Braunerova poslucharna</td><td>1101</td><td>30</td><td>Wednesday 14:00 - 14:30</td><td>5</td>
+</tr>
+<tr>
+<th colspan=3>
+Summer semester 2015
+</th>
+</tr>
+<tr>
+<td>Zoologicka poslucharna<td><td>1035</td><td>18</td><td>Friday 12:30 - 14:00</td><td>4</td>
+</tr>
+<tr>
+<td>Braunerova poslucharna<td><td>622</td><td>22</td><td>Wednesday 8:10 - 9:30</td><td>4</td>
+</tr>
+<tr>
+<td>Praktikum OZP<td><td>987</td><td>17</td><td>Wednesday 13:10 - 14:30</td><td>4</td>
+</tr>
+<tr>
+<td>Poslucharna OZP<td><td>952</td><td>14</td><td>Tuesday 11:30 - 13:00</td><td>4</td>
+</tr>
+</table>
 
 
 ###Concentration of CO2 throughout the year
@@ -171,6 +212,8 @@ This factor has been computed for every lecture. Ambient level for CO2 has been 
 The factor was 36 ppm for summer semester and 42 ppm for winter semester and it can be read as such: in average one occupant caused increase of 42 ppm in CO2 levels. This difference still isn't that great, but if we split the datasets into small classrooms and large lecture halls, the results are more clear. For smaller classroooms, average factor is 43 ppm for summer semester and 51 ppm for winter semester. This clearly indicates that ventilation rates tend to be lower in cold months. This to some level correlate with indoor and outdoor temperature. Because in most measured places all ventilation was done manually, it was determined by occupants behavior and occupants tend to ventilate less if the indoor or even outdoor temperature is low.
 
 [F/Date-deff graph]
+
+
 
 
 
