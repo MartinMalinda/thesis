@@ -37,7 +37,7 @@ In a 2014 study, 28 students were being observed under two lightning conditions:
 
 <table>
 <tr>
-<th colspan=5>
+<th colspan=4>
 Winter Semester 2015
 </th>
 </tr>
@@ -60,7 +60,7 @@ Winter Semester 2015
 <td>Braunerova poslucharna</td><td>448.25</td><td>Wednesday 14:00 - 14:30</td><td>5</td>
 </tr>
 <tr>
-<th colspan=5>
+<th colspan=4>
 Summer semester 2015
 </th>
 </tr>
@@ -68,7 +68,7 @@ Summer semester 2015
 <td>Zoologicka poslucharna</td><td>61.5</td><td>Friday 12:30 - 14:00</td><td>8</td>
 </tr>
 <tr>
-<td>Braunerova poslucharna</td><td>51</td><td>29.7</td><td>Wednesday 8:10 - 9:30</td><td>8</td>
+<td>Braunerova poslucharna</td><td>51</td><td>Wednesday 8:10 - 9:30</td><td>8</td>
 </tr>
 <tr>
 <td>Praktikum OZP</td><td>87.00</td><td>Wednesday 13:10 - 14:30</td><td>7</td>
