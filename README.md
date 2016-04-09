@@ -35,6 +35,49 @@ Another important factor is frequence of light. Higher frequencies are likely to
 
 In a 2014 study, 28 students were being observed under two lightning conditions: 200 lx and 1000 lx. They performed go no go tasks when they were relaxed and also after induction of mental fatigue. After the fatigue induction, the results were significantly better at 1000 lx and subjects also reported better mood. At a relaxed state, subjects preferred dim light (200 lx). (Smolders et al)
 
+<table>
+<tr>
+<th colspan=5>
+Winter Semester 2015
+</th>
+</tr>
+<tr>
+<td>Place</td><td>Average lightning level (median) [lux]</td><td>Lecture time</td><td>Measured lectures</td>
+</tr>
+<tr>
+<td>Kostirova poslucharna</td><td>215.25</td><td>Tuesday 16:30 - 18:00</td><td>6</td>
+</tr>
+<tr>
+<td>Seminarium BB</td><td>103.69</td><td>Thursday 14:00 - 15:30</td><td>9</td>
+</tr>
+<tr>
+<td>Krajinova poslucharna</td><td>322.95</td><td>Wednesday 9:00 - 10:30</td><td>7</td>
+</tr>
+<tr>
+<td>Krajinova poslucharna</td><td>84.79</td><td>Thursday 11:00 - 12:30</td><td>9</td>
+</tr>
+<tr>
+<td>Braunerova poslucharna</td><td>448.25</td><td>Wednesday 14:00 - 14:30</td><td>5</td>
+</tr>
+<tr>
+<th colspan=5>
+Summer semester 2015
+</th>
+</tr>
+<tr>
+<td>Zoologicka poslucharna</td><td>61.5</td><td>Friday 12:30 - 14:00</td><td>8</td>
+</tr>
+<tr>
+<td>Braunerova poslucharna</td><td>51</td><td>29.7</td><td>Wednesday 8:10 - 9:30</td><td>8</td>
+</tr>
+<tr>
+<td>Praktikum OZP</td><td>87.00</td><td>Wednesday 13:10 - 14:30</td><td>7</td>
+</tr>
+<tr>
+<td>Poslucharna OZP</td><td>96.00</td><td>Tuesday 11:30 - 13:00</td><td>6</td>
+</tr>
+</table>
+
 ###Light levels throughout the day
 ###Light levels throughout the year
 
@@ -55,6 +98,52 @@ Most of the studies observe the short term effect of temperature on performance 
 
 ###Temperature throughout the day
 ###Temperature throughout the year
+
+There is a tempereture difference between winter and summer semester but it is not as great as expected. Median for 34 winter lectures is 22.2C, while for summer semester it's 23.2C. 
+
+<table>
+<tr>
+<th colspan=5>
+Winter Semester 2015
+</th>
+</tr>
+<tr>
+<td>Place</td><td>Average temperature (median) [C]</td><td>Average relative humidity (median) [%]</td><td>Lecture time</td><td>Measured lectures</td>
+</tr>
+<tr>
+<td>Kostirova poslucharna</td><td>20.50</td><td>47.8</td><td>Tuesday 16:30 - 18:00</td><td>6</td>
+</tr>
+<tr>
+<td>Seminarium BB</td><td>23.15</td><td>41.40</td><td>Thursday 14:00 - 15:30</td><td>7</td>
+</tr>
+<tr>
+<td>Krajinova poslucharna</td><td>21.35</td><td>43.60<td>Wednesday 9:00 - 10:30</td><td>7</td>
+</tr>
+<tr>
+<td>Krajinova poslucharna</td><td>23.20</td><td>41.75</td><td>Thursday 11:00 - 12:30</td><td>9</td>
+</tr>
+<tr>
+<td>Braunerova poslucharna</td><td>21.70</td><td>41.55</td><td>Wednesday 14:00 - 14:30</td><td>5</td>
+</tr>
+<tr>
+<th colspan=5>
+Summer semester 2015
+</th>
+</tr>
+<tr>
+<td>Zoologicka poslucharna</td><td>23.1</td><td>33.2</td><td>Friday 12:30 - 14:00</td><td>8</td>
+</tr>
+<tr>
+<td>Braunerova poslucharna</td><td>22.7</td><td>29.7</td><td>Wednesday 8:10 - 9:30</td><td>8</td>
+</tr>
+<tr>
+<td>Praktikum OZP</td><td>22.95</td><td>37.90</td><td>Wednesday 13:10 - 14:30</td><td>7</td>
+</tr>
+<tr>
+<td>Poslucharna OZP</td><td>24.30</td><td>34.20</td><td>Tuesday 11:30 - 13:00</td><td>6</td>
+</tr>
+</table>
+
 
 ##Relative humidity
 ###Role of relative humidity in thermal comfort
