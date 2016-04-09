@@ -78,6 +78,12 @@ Summer semester 2015
 </tr>
 </table>
 
+Because the light sensor did not properly detect indirect light and mostly detected direct light (artificial illumination), there is a great difference in measurements when the lights are on. The median for light levels when the lights where off is 67 lux, while with the lights on it's 318.48 lux. Therefore it is feasible to compare these two datasets separately.
+
+Real light levels for lectures where lights were off were probably higher then we measured. It is still very likely though that the light levels are indeed low. Lecture halls subjectively feel often dark when the lights are off. In most of the lectures many windows blinds are drawned which greatly affects indoor light levels. The main reason is mostly so that the projected presentation can be properly visible. Nearly all lecturerers nowadays use computers and projectors in their lectures and while the technology can be very benifical for transmission of information, it's indirect decreasing effect on indoor natural light level is undeniable. This way, the projection technology could have negative indirect effect on alertness of students.
+
+Measured data suggest a few more things, even though it is difficult to prove them statistically. Firstly, the light levels tend to be higher at larger lecture halls. Larger lecture halls tend to have higher window surface area and the data suggest, that the lights are more likely to be on. It could be, that as the occupancy in the room increases, the lecturer feels more compelled to turn the lights on or pull the window blinds up. 
+
 ###Light levels throughout the day
 ###Light levels throughout the year
 
