@@ -153,8 +153,50 @@ Summer semester 2015
 
 ##Relative humidity
 ###Role of relative humidity in thermal comfort
-###Relative humidity throughout the day
-###Relative humidity throughout the year
+### Results for relative humidity
+
+<table>
+<tr>
+<th colspan=4>
+Winter Semester 2015
+</th>
+</tr>
+<tr>
+<td>Place</td><td>Average relative humidity (median) [%]</td><td>Lecture time</td><td>Measured lectures</td>
+</tr>
+<tr>
+<td>Kostirova poslucharna</td><td>47.80</td><td>Tuesday 16:30 - 18:00</td><td>6</td>
+</tr>
+<tr>
+<td>Seminarium BB</td><td>41.40</td><td>Thursday 14:00 - 15:30</td><td>7</td>
+</tr>
+<tr>
+<td>Krajinova poslucharna</td><td>43.60</td><td>Wednesday 9:00 - 10:30</td><td>7</td>
+</tr>
+<tr>
+<td>Krajinova poslucharna</td><td>41.75</td><td>Thursday 11:00 - 12:30</td><td>9</td>
+</tr>
+<tr>
+<td>Braunerova poslucharna</td><td>41.55</td><td>Wednesday 14:00 - 14:30</td><td>5</td>
+</tr>
+<tr>
+<th colspan=4>
+Summer semester 2015
+</th>
+</tr>
+<tr>
+<td>Zoologicka poslucharna</td><td>33.2</td><td>Friday 12:30 - 14:00</td><td>8</td>
+</tr>
+<tr>
+<td>Braunerova poslucharna</td><td>29.7</td><td>Wednesday 8:10 - 9:30</td><td>8</td>
+</tr>
+<tr>
+<td>Praktikum OZP</td><td>37.90</td><td>Wednesday 13:10 - 14:30</td><td>7</td>
+</tr>
+<tr>
+<td>Poslucharna OZP</td><td>34.20</td><td>Tuesday 11:30 - 13:00</td><td>6</td>
+</tr>
+</table>
 
 ##Concentration of carbon dioxide 
 ###Impact of high concentration of carbon dioxide on mental performance
